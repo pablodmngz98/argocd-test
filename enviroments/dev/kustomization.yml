@@ -4,3 +4,4 @@ patches:
 - path: test-deployment-patch.yml
 resources:
 - ../../base
+nameSuffix: -dev
